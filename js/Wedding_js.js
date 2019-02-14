@@ -1,11 +1,9 @@
 var Image = new Array(); 
 
-for (j=0;j<=50;++j) {
-Image[j] = "images/Wedding/"+j+".jpg"; 
- }
-
-
-function displayAllImages() {
+function displayAllImages(wedding_name, num_of_photos) {
+ for (j=0;j<=num_of_photos;++j) {
+ 	Image[j] = wedding_name+j+".jpg"; 
+	}
 
 // Here has to be some error!!! //
 

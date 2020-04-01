@@ -84,20 +84,24 @@ We are incredibly blessed to have a young team of photographers who work with us
 We would love to visit with you by phone or in person and talk about your event, portrait session or video project.</p>
     </div>
     <div class="section-container-spacer">
-       <form action="" class="reveal-content">
           <div class="row">
-            <div class="col-md-6">
-              <div class="form-group">
-                <input type="email" class="form-control" id="email" placeholder="Email">
+            <form class="reveal-content" action="https://formsubmit.co/srikarraophotography@gmail.com" method="POST" onSubmit="alert('Thanks for your message. We will get back to you in no time!');">
+              <input type="hidden" name="_captcha" value="false">
+              <input type="hidden" name="_subject" value="New submission from contact page!">
+              <input type="hidden" name="_next" value="https://srikarraophotography.com/contact.html">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <input type="email" name="email" class="form-control" id="email" placeholder="Email">
+                </div>
+                <div class="form-group">
+                  <input type="text" name="subject" class="form-control" id="subject" placeholder="Subject">
+                </div>
+                <div class="form-group">
+                  <textarea class="form-control" name="message" rows="3" placeholder="Enter your message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg">Send</button>
               </div>
-              <div class="form-group">
-                <input type="text" class="form-control" id="subject" placeholder="Subject">
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" rows="3" placeholder="Enter your message"></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary btn-lg">Send</button>
-            </div>
+            </form>
             <div class="col-md-6">
               <ul class="list-unstyled address-container">
                 <li>
@@ -128,7 +132,6 @@ We would love to visit with you by phone or in person and talk about your event,
               </a>
             </div>
           </div>
-        </form>
     </div>
   </div>
 </div>

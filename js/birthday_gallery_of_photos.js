@@ -1,8 +1,8 @@
-var Image = new Array(); 
+var Image = new Array();  
 
 function displaygalleryImages(wedding_name, num_of_photos) {
  for (j=0;j<=num_of_photos;++j) {
- 	Image[j] = wedding_name+j+".jpg"; 
+ 	Image[j] = wedding_name+j+".jpg";
 	}
 
 // Here has to be some error!!! //

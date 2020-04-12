@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="initial-scale=1">
     <base href="">
@@ -34,13 +33,25 @@
     <meta name="msapplication-tap-highlight" content="no">
     <link href="./css/main.82cfd66e.css" rel="stylesheet">
     <link href="./css/sr_css.css" rel="stylesheet">
-    <script type="text/javascript" src="./js/Wedding_js.js"></script>
+    <link href="./css/aos.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/fancybox.min.css">
+    <script type="text/javascript" src="./js/birthday_gallery_of_photos.js"></script>
 
 </head>
+  <body>
+  <div class="site-wrap">
 
-<body>
+  <div class="site-mobile-menu">
+    <div class="site-mobile-menu-header">
+      <div class="site-mobile-menu-close mt-3">
+        <span class="icon-close2 js-menu-toggle"></span>
+      </div>
+    </div>
+    <div class="site-mobile-menu-body"></div>
+  </div>
 
-<!-- Add your content of header -->
+  <!-- Add your content of header -->
 <header class="">
   <div class="navbar navbar-default visible-xs">
     <button type="button" class="navbar-toggle collapsed">
@@ -82,29 +93,30 @@
   </nav>
 </header>
 
+<!-- Add your site or app content here -->
+  <main class="" id="main-collapse">
+        <div class="grid ">
+          <div class="gutter-sizer"></div>
+          <div class="grid-sizer"></div>
+            <script>displaygalleryImages('./images/Portraits/',5)</script>
+        </div>
 
-<main class="" id="main-collapse">
-  
-  <div class="hero-full-wrapper">
-  <div class="grid">
-  <div class="gutter-sizer"></div>
-    <div class="grid-sizer"></div>
-    
-    <script>displayAllImages('./images/Portraits/',5)</script>
-  </div>
-</div>
-
-
-<script>
+  <script>
   document.addEventListener("DOMContentLoaded", function (event) {
      masonryBuild();
   });
-</script>
+  </script>
+  </main>
 
-    
-</main>
+</div> <!-- .site-wrap -->
 
-<script>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/main.js"></script>
+  <script type="text/javascript" src="./js/main.85741bff.js"></script></body>
+  
+  <script>
 document.addEventListener("DOMContentLoaded", function (event) {
   navbarToggleSidebar();
   navActivePage();
@@ -120,7 +132,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
   gtag('config', 'UA-106271431-1');
 </script>
-
-<script type="text/javascript" src="./js/main.85741bff.js"></script></body>
+ 
 
 </html>

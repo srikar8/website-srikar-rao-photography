@@ -1,0 +1,12 @@
+
+    <div class="col-sm-12 col-12" style="text-align:center;">
+    <h1 class="page-heading">Latest Blog Post:</h1>
+    </div>
+    {% for post in site.posts limit:6 %}
+    <div class="col-sm-12 col-md-4">
+      <div class="blog-index">
+        {% assign content = post.content %}
+        {% include post_detail_full.html %}
+      </div>
+    </div>
+    {% endfor %}

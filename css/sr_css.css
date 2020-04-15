@@ -86,3 +86,14 @@ i.fa {
 
 }
 
+.icon_whatsapp{
+  background-color: #56e675 ;
+  position: fixed;
+  z-index: 999;
+  bottom: 2%;
+  right: 2%;
+  border-radius: 60px;
+}
+.icon_whatsapp:hover{
+  color:white;
+}

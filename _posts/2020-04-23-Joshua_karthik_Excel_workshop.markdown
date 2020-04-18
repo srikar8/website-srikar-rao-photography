@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Joshua karthik Ecel workshop "
+title:  "Joshua karthik Excel workshop "
 date:   2020-04-23 09:03:51 +0530
 image: "http://freemyfeed.com/wp-content/uploads/2019/09/COMING-SOON.png"
 ---

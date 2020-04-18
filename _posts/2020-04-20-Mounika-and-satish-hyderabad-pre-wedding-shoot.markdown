@@ -2,7 +2,7 @@
 layout: post
 title:  "Mounika & Satish"
 date:   2020-04-20 09:03:51 +0530
-image: "/images/srikarraologo.svg"
+image: "http://freemyfeed.com/wp-content/uploads/2019/09/COMING-SOON.png"
 ---
 
  

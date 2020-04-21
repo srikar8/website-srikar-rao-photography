@@ -15,22 +15,21 @@ He told me  " I want exact same shot of Manogna ( The Bride )".
 
 I said Done.
 
-I felt very excited and with in a second I pre visualized that image and got that perfect shot.
+I felt very excited and challenged to get the shot.
+
+I pre-visualised that image and did the math where to stand and how much of light is needed for the shot.
+
+Finally I got the shot and showed him after the wedding. He was so happy to see the shot.
+
+<span style="color:red;">&hearts;</span> &hearts; I still remember his expression after seeing the final picture.  &hearts; <span style="color:red;">&hearts;</span>
 
 This picture was taken at the time of  Mangala dharanam ( time when the mangalsutram is tied ).
 
-<hr>
-<div class="row">
-<div class=" col-xs-6 col-md-6">
-<img class="img-responsive "  alt="vijayawada-candid-photographer" src="https://instagram.fblr2-1.fna.fbcdn.net/v/t51.2885-15/e35/22221135_1463428033704657_8853077346916237312_n.jpg?_nc_ht=instagram.fblr2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Dd_bCEK2UL8AX8Ak-Xx&oh=bf67c87b5037e58605e4802764970b3d&oe=5EC7EE86" style="width:82%;margin:auto 0 0 auto">
-</div>
-<div class=" col-xs-6 col-md-6">
-<img class="img-responsive "  alt="vijayawada-candid-photographer-SrikarRao-81" src="/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-81.jpg" style="width:100%;margin:auto auto 0 0">
-</div>
-</div>
+![vijayawada-candid-photographer-SrikarRao-81](/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-81.jpg){:class="img-responsive" style="width:75%;margin:auto;"}
+
 <hr>
 <br>
-<h2> Some more shots from the Wedding </h2>
+<h2> Some more shots from the Wedding Rituals </h2>
 
 ![vijayawada-candid-photographer-SrikarRao-350](/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-350.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
 

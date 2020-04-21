@@ -11,20 +11,22 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+  <span style="color:red;">&hearts;</span> &hearts; The End  &hearts; <span style="color:red;">&hearts;</span>
+  <hr>
   </div>
 
   <div class="PageNavigation" style="padding: 15px 15px 15px 15px;">
     
   {% if page.previous.url %}
-  <div class="col-sm-12 col-md-4">
-    <a class="prev" href="{{page.previous.url}}"> <img src="{{ page.previous.image }}" class="img-responsive"/>&lt; Previous Blog<br>{{page.previous.title}}</a>
+  <div class="col-sm-12 col-md-4" style="float: left;">
+    <a class="prev" href="{{page.previous.url}}"> <img src="{{ page.previous.image }}" class="img-responsive border_radius_5px"/>&lt; Previous Blog<br>{{page.previous.title}}</a>
   </div>
   {% endif %}
   
   
   {% if page.next.url %}
-  <div class="col-sm-12 col-md-4">
-    <a class="next" href="{{page.next.url}}"><img src="{{ page.next.image }}" class="img-responsive"/>Next Blog<br>{{page.next.title}} &gt;</a>
+  <div class="col-sm-12 col-md-4" style="float: right;">
+    <a class="next" href="{{page.next.url}}"><img src="{{ page.next.image }}" class="img-responsive border_radius_5px"/>Next Blog<br>{{page.next.title}} &gt;</a>
   </div>
   {% endif %}
 

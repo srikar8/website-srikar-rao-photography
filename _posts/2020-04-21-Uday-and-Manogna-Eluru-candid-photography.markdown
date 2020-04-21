@@ -402,3 +402,6 @@ This picture was taken at the time of  Mangala dharanam ( time when the mangalsu
 ![vijayawada-candid-photographer-SrikarRao-6](/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-6.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
 
 ![vijayawada-candid-photographer-SrikarRao-5](/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-5.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
+
+
+

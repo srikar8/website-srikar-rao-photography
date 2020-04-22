@@ -591,3 +591,5 @@ image: "/images/Wedding/Best_Wedding_Chandni_Arjun/Best_Wedding_Chandni_Arjun-0.
 ![Best_Wedding_Chandni_Arjun-291](/images/Wedding/Best_Wedding_Chandni_Arjun/Best_Wedding_Chandni_Arjun-291.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
 
 ![Best_Wedding_Chandni_Arjun-292](/images/Wedding/Best_Wedding_Chandni_Arjun/Best_Wedding_Chandni_Arjun-292.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

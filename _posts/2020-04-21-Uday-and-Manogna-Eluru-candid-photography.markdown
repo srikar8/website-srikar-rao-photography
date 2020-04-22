@@ -4,26 +4,25 @@ title:  "Uday & Manogna"
 date:   2020-04-20 09:03:51 +0530
 image: "/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-53.jpg"
 ---
+<p><b>Photographer:</b> Srikar Rao</p>
+<p><b>Venue : </b> Eluru, Andhra Pradesh</p>
+<div  class="col-md-6" style="text-align:left; float:none;margin:auto;">
+<p><b>Uday ( The Groom )</b> called me before the wedding start and showed me a picture from Samantha and Naga Chaitanya wedding.</p>
 
- 
+<p>He told me  " I want exact same shot of <b>Manogna ( The Bride )</b>".</p>
 
- 
+<p>I said done,  felt very excited and challenged to get the shot.</p>
 
-Uday called me before the wedding start and showed me a picture from Samantha and Naga Chaitanya wedding.
+<p>I pre-visualised that image and did the math where to stand and how much of light is needed for the shot.</p>
 
-He told me  " I want exact same shot of Manogna ( The Bride )".
+<p>Finally I got the shot and showed him after the wedding. He was so happy to see the shot.</p>
 
-I said Done.
+<p><span style="color:red;">&hearts;</span> &hearts; I still remember his expression after seeing the final picture.  &hearts; <span style="color:red;">&hearts;</span></p>
 
-I felt very excited and challenged to get the shot.
+<p>This picture was taken at the time of  <b>Mangala dharanam</b> 	( time when the mangalsutram is tied).</p>
 
-I pre-visualised that image and did the math where to stand and how much of light is needed for the shot.
-
-Finally I got the shot and showed him after the wedding. He was so happy to see the shot.
-
-<span style="color:red;">&hearts;</span> &hearts; I still remember his expression after seeing the final picture.  &hearts; <span style="color:red;">&hearts;</span>
-
-This picture was taken at the time of  Mangala dharanam ( time when the mangalsutram is tied ).
+</div>
+<hr>
 
 ![vijayawada-candid-photographer-SrikarRao-81](/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-81.jpg){:class="img-responsive" style="width:75%;margin:auto;"}
 
@@ -403,5 +402,5 @@ This picture was taken at the time of  Mangala dharanam ( time when the mangalsu
 
 ![vijayawada-candid-photographer-SrikarRao-5](/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-5.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
 
-
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 

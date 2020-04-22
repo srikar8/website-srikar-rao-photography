@@ -156,3 +156,5 @@ permalink: /birthdayparty/
 ![38](/images/Birthdayparty/kabir/38.jpg)
 
 ![39](/images/Birthdayparty/kabir/39.jpg)
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

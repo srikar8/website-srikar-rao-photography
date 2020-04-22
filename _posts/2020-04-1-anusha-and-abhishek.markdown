@@ -232,3 +232,5 @@ image: "/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anu
 ![best-premium-candid-photographer-SrikarRao-Bangalore-112](/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-112.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
 
 ![best-premium-candid-photographer-SrikarRao-Bangalore-113](/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-113.jpg){:class="img-responsive" style="width:70%;margin:auto;"}
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

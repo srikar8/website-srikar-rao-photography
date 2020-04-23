@@ -1,10 +1,10 @@
 
     <div class="col-sm-12 col-12" style="text-align:center;">
-    <h1 class="page-heading">Blog Posts :</h1>
+    <h1 class="page-heading index_h1" >Blog Posts :</h1>
     </div>
     {% for post in site.posts limit:3 %}
-    <div class="col-sm-12 col-md-4">
-      <div class="blog-index ">
+    <div class="col-sm-12 col-md-4" data-aos="fade-left">
+      <div class="blog-index zoom">
         {% assign content = post.content %}
         {% include post_detail_full.html %}
       </div>

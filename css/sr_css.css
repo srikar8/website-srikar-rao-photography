@@ -106,3 +106,31 @@ i.fa {
 .border_radius_5px{
   border-radius: 5px;
 }
+
+/*Blog post div*/
+.zoom {
+  transition: transform .5s;
+}
+
+.zoom:hover {
+  transform: scale(1.05); /* (105% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  
+}
+.zoom a:hover { 
+  text-decoration: none;
+  color: black;
+}
+
+.index_h1{
+  color: #0251ad;
+}
+
+.index_button{color:white;
+background-color:#0251ad;
+border-radius: 13px!important;
+border:0px;
+transition: transform .5s;
+}
+.index_button:hover{
+  transform: scale(1.20);
+}

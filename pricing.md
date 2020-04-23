@@ -4,7 +4,7 @@ title: Pricing
 permalink: /pricing/
 ---
 <div class="container" style="padding:0px">
-<div class="row" data-aos="fade-left" >
+<div class="row" >
     <div class="col-xs-12">
       <img class="img-responsive" alt="" src="/images/home/weddings_1.jpg"  style="width:75%; margin:auto">
     </div>

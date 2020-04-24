@@ -6,8 +6,7 @@ image: "/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-can
 permalink: /blog/best-small-wedding-photographer-vijayawada
 ---
 <div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
-<p style="text-align:center"><b>Photographer:</b> Srikar Rao</p>
-<p style="text-align:center"><b>Venue : </b> Eluru, Andhra Pradesh</p>
+
 <p><b>Uday ( The Groom )</b> called me before the wedding start and showed me a picture from Samantha and Naga Chaitanya wedding.</p>
 
 <p>He told me  " I want exact same shot of <b>Manogna ( The Bride )</b>".</p>
@@ -18,10 +17,11 @@ permalink: /blog/best-small-wedding-photographer-vijayawada
 
 <p>Finally I got the shot and showed him after the wedding. He was so happy to see the shot.</p>
 
-<p><span style="color:red;">&hearts;</span> &hearts; I still remember his expression after seeing the final picture.  &hearts; <span style="color:red;">&hearts;</span></p>
+<p>&hearts; I still remember his expression after seeing the final picture.  &hearts;</p>
 
 <p>This picture was taken at the time of  <b>Mangala dharanam</b> 	( time when the mangalsutram is tied).</p>
-
+<p style="text-align:center"><b>Photographer:</b> Srikar Rao</p>
+<p style="text-align:center"><b>Venue : </b> Eluru, Andhra Pradesh</p>
 </div>
 <hr>
 

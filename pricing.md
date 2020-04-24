@@ -11,19 +11,20 @@ permalink: /pricing/
   </div>
 <div class="row" data-aos="fade-up" style="margin:0px">
 <br>
-<h2 style="text-align-center">Packages</h2>
+<h3 style="text-align-center">Packages</h3>
+<hr style="width:50%">
 <br>
 <div class="col-sm-6">
 <img class="img-responsive" alt="" src="/images/home/weddings_1.jpg"  style="margin:auto 0 auto auto">
 </div>
 <div class="col-sm-6" style=" text-align:left;padding:0% 4% 4% 4%">
-<h2>Minimalistic</h2>
+<h3>Minimalistic</h3>
 <p>-Full day Wedding coverage<br>
 -1 Photographer<br>
 -Average of 300-350 post produced pictures<br>
 -A beat matched Teaser<br>
 -An exclusive online Gallery saved on the cloud<br>
--12x12 40 Page Art Leather Album (+₹10,000) </p>
+-12x12 40 Page Art Leather Album ( + ₹10,000) </p>
 <hr>
 <p>₹42,000</p>
 </div>
@@ -34,14 +35,14 @@ permalink: /pricing/
 <img class="img-responsive" alt="" src="/images/home/weddings_1.jpg"  style="margin:auto 0 auto auto">
 </div>
 <div class="col-sm-6 col-sm-pull-6" style=" text-align:left;padding:0% 4% 4% 4%">
-<h2 >Its a Steal</h2>
+<h3 >Its a Steal</h3>
 <p>-Full day Wedding coverage<br>
 -2 Photographers<br>
 -Average of 500-550 post produced pictures<br>
 -A beat matched Teaser <br>
 -An exclusive online gallery saved on the cloud<br>
 -A set of 25 matte photo prints<br>
--12x12 40 Page Art Leather Album (+₹10,000)</p>
+-12x12 40 Page Art Leather Album ( + ₹10,000)</p>
 <hr>
 <p class="pricing-packages__price">₹62,000</p>
 </div>
@@ -52,14 +53,14 @@ permalink: /pricing/
 <img class="img-responsive" alt="" src="/images/home/weddings_1.jpg"  style="margin:auto 0 auto auto">
 </div>
 <div class="col-sm-6" style=" text-align:left; padding:0% 4% 4% 4%">
-<h2 >Killer Deal</h2>
+<h3 >Killer Deal</h3>
 <p>-Full day Wedding coverage<br>
 -3 Photographers<br>
 -Average of 700-750 Post produced pictures<br>
 -A beat matched Teaser<br>
 -An exclusive online gallery saved on the cloud<br>
 -A set of 50 Photo Prints<br>
--12x12 40 Page Art Leather Album (+₹10,000)</p>
+-12x12 40 Page Art Leather Album ( + ₹10,000)</p>
 <hr>
 <p>₹82,000/-</p>
 </div>
@@ -67,11 +68,11 @@ permalink: /pricing/
 </div>
 <div class="row" data-aos="fade-up" style="margin:0px">
 <br>
-<a href="/contact"><button type="button" class="index_h1 index_button" >Book a session</button></a>
+<a href="/contact"><button type="button" class="btn-4" ><span>Book a session</span></button></a>
 <br>
 </div>
 <div class="row" data-aos="fade-up" style="margin:0px">
-<h2 >Frequently Asked Questions</h2>
+<h3 >Frequently Asked Questions</h3>
 <hr style="width:50%">
 <h3>Do you guys travel?</h3>
 <p>Yes absolutely! All over the world in fact, but you'll have to get us there and give us a place to sleep!<br>

@@ -3,10 +3,6 @@ layout: default
 title: Portrait
 permalink: /portrait/
 --- 
-<audio controls="controls" src="/songs/1.mp3">
-        Your browser does not support the HTML5 audio element.
-    </audio>
-
 
 ![6](/images/Portraits/6.jpg)
 

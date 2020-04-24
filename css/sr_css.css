@@ -121,16 +121,134 @@ i.fa {
   color: black;
 }
 
-.index_h1{
-  color: #0251ad;
+
+body,p,li,a,strong{
+  font-family: minion-3,serif;
+  font-weight: 400;
+  font-style: italic;
+
 }
 
-.index_button{color:white;
-background-color:#0251ad;
-border-radius: 13px!important;
-border:0px;
-transition: transform .5s;
+@font-face {font-family: "AireBoldPro"; 
+    src: url('/fonts/AireBoldPro.otf') format('opentype');
+    font-display: swap;}
+    @font-face {font-family: "FreightBigBook"; 
+      src: url('/fonts/FreightBigBook.otf') format('opentype');
+      font-display: swap;}
+
+h2,h4{
+  font-family: AireBoldPro;
+  font-size: 3rem;
+  line-height: 1.78;
+  font-weight: normal;
+  font-style: normal;
 }
-.index_button:hover{
-  transform: scale(1.20);
+
+.pagetitlefont-2,h1{
+  font-family: FreightBigBook;
+  font-weight: normal;
+  font-style: normal;
 }
+
+h3{
+  font-size: 3rem;
+  line-height: 1.78;
+  font-weight: normal;
+}
+
+
+/*button css*/
+button{
+  color: #9f9f9f;
+  background-color: #ffffff;
+  font-family: Raleway SemiBold;
+  font-size: 1.2rem;
+  font-style: normal;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: normal;
+  border: 1px solid;
+  padding: .6875rem 1.5625rem;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  margin: 20px 30px;
+}
+button:hover{
+  border: 0px;
+}
+span{
+  display: block;
+}
+
+button::before, button::after{
+  border: 0px;
+  content:"";
+  width: 0;
+  height: 1px;
+  position: absolute;
+  transition: all 0.2s linear;
+  background: #9f9f9f;
+}
+
+span::before, span::after{
+  content:"";
+  width:1px;
+  height:0;
+  position: absolute;
+  transition: all 0.2s linear;
+  background: #9f9f9f;
+}
+button:hover::before, button:hover::after{
+  width: 100%;
+}
+button:hover span::before, button:hover span::after{
+  height: 100%;
+}
+
+/*----- button 4 -----*/
+.btn-4::after{
+  right:0;
+  bottom: 0;
+  transition-duration: 0.4s;
+}
+.btn-4 span::after{
+  right:0;
+  bottom: 0;
+  transition-duration: 0.4s;
+}
+.btn-4::before{
+  left: 0;
+  top: 0;
+  transition-duration: 0.4s;
+}
+.btn-4 span::before{
+  left: 0;
+  top: 0;
+  transition-duration: 0.4s;
+}
+
+
+/* a hover*/
+
+/* site logo mobile */
+.site-logo-mobile{
+  margin-bottom: 6px;
+  max-width: 20%;
+}
+
+/* navbar-brand-mobile*/
+.navbar-brand-mobile{
+  padding: 13px 15px;
+  font-size: 140%;
+  line-height: 26px;
+}
+.navbar-button{
+  margin: 10px 15% 10px 15%;
+  padding-right:15%;
+  background-color: #f7f7f7 !important;
+}
+.navbar-toggle {
+  float: left;
+}
+

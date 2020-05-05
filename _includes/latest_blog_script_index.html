@@ -1,11 +1,17 @@
 
     <div class="col-sm-12 col-12" style="text-align:center;">
-    <h1 class="page-heading index_h1" >Blog Posts</h1>
+    <h1 class="page-heading index_h1" >BLOG POSTS</h1>
     </div>
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts offset:1 limit:1 %}
+    <div class="col-sm-12 col-md-8" data-aos="fade-up">
+      <div class="blog-index zoom">
+        <a href="{{ root_url }}{{ post.url }}"><img src="{{ post.image }}"  class="img-responsive border_radius_5px" width="100%"/><span style="margin: 15px 0 0;">{{ post.title }}</span></a>
+      </div>
+    </div>
+    {% endfor %}
+    {% for post in site.posts offset:2 limit:2 %}
     <div class="col-sm-12 col-md-4" data-aos="fade-up">
       <div class="blog-index zoom">
-        {% assign content = post.content %}
         {% include post_detail_full.html %}
       </div>
     </div>

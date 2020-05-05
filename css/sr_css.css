@@ -104,7 +104,7 @@ i.fa {
 }
 
 .border_radius_5px{
-  border-radius: 5px;
+  
 }
 
 /*Blog post div*/
@@ -121,12 +121,16 @@ i.fa {
   color: black;
 }
 
+.no-hover:hover{
+  color: black;
+}
+
 
 body,p,li,a,strong{
   font-family: minion-3,serif;
   font-weight: 400;
   font-style: italic;
-
+  letter-spacing: .01em;
 }
 
 @font-face {font-family: "AireBoldPro"; 
@@ -151,9 +155,37 @@ h2{
 }
 
 .pagetitlefont-2,h1{
-  font-family: FreightBigBook;
-  font-weight: normal;
+  font-family: Arapey, serif;
+  font-weight: 400;
   font-style: normal;
+  font-size: 3rem;
+  letter-spacing: -.05em;
+  line-height: 1.6em;
+}@media (min-width: 768px) {
+  .pagetitlefont-2,h1{
+    font-family: Arapey, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    letter-spacing: -.05em;
+    line-height: 1.6em;
+  }
+}
+
+.Arapey-font-minus{
+  font-family: Arapey, serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -.05em;
+  line-height: 1.6em;
+}
+
+.Arapey-font{
+  font-family: Arapey, serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .25em;
+  line-height: 2.6em;
 }
 
 h3{
@@ -167,7 +199,7 @@ h3{
 button{
   color: #212121;
   background-color: #ffffff;
-  font-family: Raleway SemiBold;
+  font-family: Arapey, serif;
   font-size: 1.2rem;
   font-style: normal;
   letter-spacing: 0.2rem;
@@ -256,4 +288,41 @@ button:hover span::before, button:hover span::after{
 }
 .navbar-toggle {
   float: left;
+}
+
+.blog-index{
+
+  padding-bottom: 10px;
+}
+
+.about-me-image-size{
+  width:90%;margin-left: 5%;margin-right: 5%;
+}
+@media (min-width: 768px) {
+  .about-me-image-size{
+    width:60%;margin-left: 20%;margin-right: 20%;
+  }
+}
+.about-me-text-size{
+  width:90%;margin-left: 5%;margin-right: 5%;
+}
+@media (min-width: 768px) {
+  .about-me-text-size{
+    width:60%;margin-left: 20%;margin-right: 20%;
+  }
+}
+.about-me-title-size{
+  color: #812505; font-size: 26px; font-style: normal; padding-top: 20px;padding-bottom: 20px;
+}@media (min-width: 768px) {
+  .about-me-title-size{
+    font-size: 40px; padding: 20px;
+  }
+}
+
+.index-about-me{
+  padding: 5rem 1rem 5rem 1rem;
+}@media (min-width: 768px) {
+  .index-about-me{
+    padding: 15rem 10rem 15rem 10rem;
+  }
 }

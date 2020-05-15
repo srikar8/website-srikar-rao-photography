@@ -91,3 +91,5 @@ permalink: /blog/kanchipuram-mahabalipuram-photographer-trip
 ![kanchipuram-mahabalipuram-photographer-trip-82](/images/trip/kanchipuram-mahabalipuram-photographer-trip/kanchipuram-mahabalipuram-photographer-trip-82.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 
 ![kanchipuram-mahabalipuram-photographer-trip-83](/images/trip/kanchipuram-mahabalipuram-photographer-trip/kanchipuram-mahabalipuram-photographer-trip-83.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

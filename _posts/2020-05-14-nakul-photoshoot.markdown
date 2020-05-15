@@ -210,3 +210,7 @@ permalink: /blog/nakul-photoshoot
 ![bangalore-lockdown-birthday-photoshoot-photographer--102](/images/photoshoot/Nakul/bangalore-lockdown-birthday-photoshoot-photographer--102.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 
 ![bangalore-lockdown-birthday-photoshoot-photographer--103](/images/photoshoot/Nakul/bangalore-lockdown-birthday-photoshoot-photographer--103.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
+
+
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

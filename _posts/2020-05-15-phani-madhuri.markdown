@@ -225,3 +225,5 @@ permalink: /blog/phani-madhuri
 ![online-home-zoom-hyderabad-ringceremony-photographer--2](/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--2.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 
 ![online-home-zoom-hyderabad-ringceremony-photographer--1](/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--1.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

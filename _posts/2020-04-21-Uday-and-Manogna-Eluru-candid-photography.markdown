@@ -2,6 +2,7 @@
 layout: post
 title:  "Uday & Manogna"
 date:   2020-04-20 09:03:51 +0530
+alt: "Vijayawada Wedding Photographer"
 image: "/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-53.jpg"
 permalink: /blog/best-small-wedding-photographer-vijayawada
 ---

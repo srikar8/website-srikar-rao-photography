@@ -2,6 +2,7 @@
 layout: post
 title:  "Nakul Pre Birthday Shoot"
 date:   2020-05-13 19:03:51 +0530
+alt: "Pre Birthday Photographer during lockdown"
 image: "/images/photoshoot/Nakul/bangalore-lockdown-birthday-photoshoot-photographer--6.jpg"
 permalink: /blog/nakul-photoshoot
 ---

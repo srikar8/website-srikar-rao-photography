@@ -2,6 +2,7 @@
 layout: post
 title:  "Anusha & Abhishek"
 date:   2020-04-1 09:03:51 +0530
+alt: "Wedding Photography "
 image: "/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-0.jpg"
 permalink: /blog/wedding-photographer-bangalore
 ---

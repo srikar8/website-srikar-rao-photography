@@ -1,14 +1,25 @@
 ---
 layout: post
-title:  "Anusha & Abhishek"
+title:  "Anusha & Abhishek   //   Love Wedding   //   Bangalore"
 date:   2020-04-1 09:03:51 +0530
 alt: "Wedding Photography "
 image: "/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-0.jpg"
 permalink: /blog/wedding-photographer-bangalore
-description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
+description: "It was fun covering Anusha and Abhishek wedding. They got married at the spectacular White Palace Hotel & Convention Bangalore this year."
 ---
 
- ![wedding-photographer-bangalore-0](/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-0.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
+<div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
+
+<p>It was fun covering Anusha and Abhishek wedding. They got married at the spectacular White Palace Hotel & Convention Bangalore this year.</p>
+
+<p style="text-align:center"><b>Photographer:</b> Srikar Rao, Yash Rathi, Aditya Rao</p>
+<p style="text-align:center"><b>Equipment:</b> Nikon D750 , Sony A7iii </p>
+<p style="text-align:center"><b>Venue : </b> White Palace Hotel & Convention, Bangalore</p>
+<br>
+</div>
+
+
+![wedding-photographer-bangalore-0](/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-0.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 
 ![wedding-photographer-bangalore-1](/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-1.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 

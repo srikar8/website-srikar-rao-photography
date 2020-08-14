@@ -1,12 +1,27 @@
 ---
 layout: post
-title:  "Phani Ratna & Madhuri"
+title:  "Phani Ratna & Madhuri   //   Zoom Ring Ceremony"
 date:   2020-05-14 1:03:51 +0530
 alt: "Engagement Photographer during lockdown"
 image: "/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--2.jpg"
 permalink: /blog/phani-madhuri
-description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
+description: "Phani had a Phd Ceremony at USA. It was quite fun moment covering there ring ceremoney"
 ---
+<div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
+
+<p>TobeGroom : Can you hear me ....! </p>
+<br>
+<p>TobeGroom : Can you hear me ....! </p>
+<br>
+<p>TobeBride : Yes.. We can hear you loud and clear. ( and she smiled &hearts;) </p>
+<br>
+
+
+<p style="text-align:center"><b>Photographer:</b> Srikar Rao, Manohar</p>
+<p style="text-align:center"><b>Equipment:</b> Nikon D750</p>
+<p style="text-align:center"><b>Venue : </b> Hyderabad</p>
+<br>
+</div>
 
 ![online-home-zoom-hyderabad-ringceremony-photographer--26](/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--26.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 

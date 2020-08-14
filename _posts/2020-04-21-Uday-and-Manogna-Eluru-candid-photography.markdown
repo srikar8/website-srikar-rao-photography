@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Uday & Manogna"
+title:  "Uday & Manogna    //   Love Wedding   //   Vijayawada"
 date:   2020-04-20 09:03:51 +0530
 alt: "Vijayawada Wedding Photographer"
 image: "/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-53.jpg"
 permalink: /blog/best-small-wedding-photographer-vijayawada
-description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
+description: "Its a Love wedding, they waited for almost 2 years to convince there family members."
 ---
 <div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
 
@@ -23,6 +23,7 @@ description: "Event & Wedding photographers based in Bangalore, India. We love c
 
 <p>This picture was taken at the time of  <b>Mangala dharanam</b> 	( time when the mangalsutram is tied).</p>
 <p style="text-align:center"><b>Photographer:</b> Srikar Rao</p>
+<p style="text-align:center"><b>Equipment:</b> Nikon D750 , Sony A7iii </p>
 <p style="text-align:center"><b>Venue : </b> Eluru, Andhra Pradesh</p>
 </div>
 <hr>

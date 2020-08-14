@@ -1,13 +1,21 @@
 ---
 layout: post
-title:  "Chandini & Arjun"
+title:  "Chandini & Arjun    //   Tamil Bhramin Wedding "
 date:   2020-04-12 09:03:51 +0530
 alt: "Bangalore Tamil Bhramin Wedding Photographer "
 image: "/images/Wedding/Best_Wedding_Chandni_Arjun/Best_Wedding_Chandni_Arjun-0.jpg"
 permalink: /blog/grand-tamil-brahmin-wedding-photographer-bangalore
-description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
+description: "Arjun & Chandni met at Bangalore Turf Club and they feel in Love at first sight. It was amazing and challenging experience covering there wedding."
 ---
+<div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
 
+<p> Arjun & Chandni met at Bangalore Turf Club and they feel in Love at first sight. It was amazing and challenging experience covering there wedding. Especially during the mehndi time, Chandni sang a song for Arjun by playing ukulele. I just feel every word of the song in my pictures when i see them now. </p>
+
+<p style="text-align:center"><b>Photographer:</b> Srikar Rao, Chaitanya Reddy</p>
+<p style="text-align:center"><b>Equipment:</b> Nikon D750</p>
+<p style="text-align:center"><b>Venue : </b> Ganjam Mantapa, Bangalore | Indiranagar Club, Bangalore | 1Q1 - Kitchen & Bar, Bangalore</p>
+<br>
+</div>
 
 ![grand-tamil-brahmin-wedding-photographer-bangalore-Chandni-Arjun-0](/images/Wedding/Best_Wedding_Chandni_Arjun/Best_Wedding_Chandni_Arjun-0.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 

@@ -2,6 +2,7 @@
 layout: default
 title: Portrait
 permalink: /portrait/
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 --- 
 
 ![6](/images/Portraits/6.jpg)

@@ -5,6 +5,7 @@ date:   2020-04-1 09:03:51 +0530
 alt: "Wedding Photography "
 image: "/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-0.jpg"
 permalink: /blog/wedding-photographer-bangalore
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 
  ![wedding-photographer-bangalore-0](/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-0.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}

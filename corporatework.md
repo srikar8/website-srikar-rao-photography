@@ -2,6 +2,7 @@
 layout: default
 title: Corporate Work
 permalink: /corporatework/
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 
 ![0](/images/Corporate/0.png)

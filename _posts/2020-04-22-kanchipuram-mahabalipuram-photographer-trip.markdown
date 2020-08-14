@@ -5,6 +5,7 @@ date:   2020-04-22 09:03:51 +0530
 alt: "Travel Photographer to kanchipuram & mahabalipuram"
 image: "/images/trip/kanchipuram-mahabalipuram-photographer-trip/kanchipuram-mahabalipuram-photographer-trip-13.jpg"
 permalink: /blog/kanchipuram-mahabalipuram-photographer-trip
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 
 ![kanchipuram-mahabalipuram-photographer-trip-1](/images/trip/kanchipuram-mahabalipuram-photographer-trip/kanchipuram-mahabalipuram-photographer-trip-1.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}

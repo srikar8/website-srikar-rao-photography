@@ -5,6 +5,7 @@ date:   2020-04-20 09:03:51 +0530
 alt: "Vijayawada Wedding Photographer"
 image: "/images/Wedding/vijayawada-candid-photographer-srikar-rao/vijayawada-candid-photographer-SrikarRao-53.jpg"
 permalink: /blog/best-small-wedding-photographer-vijayawada
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 <div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
 

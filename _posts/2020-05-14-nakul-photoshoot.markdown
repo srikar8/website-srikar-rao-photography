@@ -5,6 +5,7 @@ date:   2020-05-13 19:03:51 +0530
 alt: "Pre Birthday Photographer during lockdown"
 image: "/images/photoshoot/Nakul/bangalore-lockdown-birthday-photoshoot-photographer--6.jpg"
 permalink: /blog/nakul-photoshoot
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 ![bangalore-lockdown-birthday-photoshoot-photographer--1](/images/photoshoot/Nakul/bangalore-lockdown-birthday-photoshoot-photographer--1.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 

@@ -5,6 +5,7 @@ date:   2020-05-14 1:03:51 +0530
 alt: "Engagement Photographer during lockdown"
 image: "/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--2.jpg"
 permalink: /blog/phani-madhuri
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 
 ![online-home-zoom-hyderabad-ringceremony-photographer--26](/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--26.jpg){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}

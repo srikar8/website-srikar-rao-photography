@@ -2,6 +2,7 @@
 layout: gallery
 title: Birthday Party
 permalink: /birthdayparty/
+description: "Event & Wedding photographers based in Bangalore, India. We love creating beautiful imagery of authentic moments that evoke genuine emotion."
 ---
 <div class="grid-item"  data-order="1" data-aos="fade-up"  ><a href="/images/Birthdayparty/best/1.jpg" class="d-block photo-item" data-fancybox="gallery"><img  src="/images/Birthdayparty/best/1.jpg" alt="Image" class=" img-responsive " loading="lazy" ><div class="photo-text-more"><span class="icon icon-search"></span></div></a></div>
 

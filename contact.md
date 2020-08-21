@@ -44,10 +44,10 @@ description: "Event & Wedding photographers based in Bangalore, India. We love c
 <div class="row" data-aos="fade-up" style="display:inline-block;width: 85%;">
   <div class="col-xs-12">
     <div class="section-container-spacer">
-          <form class="reveal-content" action="https://formsubmit.co/srikarraophotography@gmail.com" method="POST" onSubmit="alert('Thanks for your message. We will get back to you in no time!');">
+          <form class="reveal-content" action="https://formsubmit.co/49b80a29bec939e6b0878844eefa5057" method="POST" onSubmit="alert('Thanks for your message. We will get back to you in no time!');">
               <input type="hidden" name="_captcha" value="false">
               <input type="hidden" name="_subject" value="New submission from contact page!">
-              <input type="hidden" name="_next" value="https://srikarraophotography.com/contact.html">
+              <input type="hidden" name="_next" value="https://srikarraophotography.com/contact/">
                 <div class="form-group">
                   <input type="text" name="Name" class="form-control" id="Name" placeholder="Name*" required>
                 </div>

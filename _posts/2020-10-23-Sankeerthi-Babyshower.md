@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sankeerthi // Warangal"
+title:  "Sankeerthi // Baby Shower // Warangal"
 date:   2020-10-23 1:03:51 +0530
 alt: " Sankeerthi Baby Shower Warangal"
 image: "/images/Babyshower/Sankeerthi/SRI_5036.jpg"
@@ -38,7 +38,7 @@ description: "Sankeerthi Baby Shower at home in Warangal "
 <div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
 <br>
 <br>
-<p><a href="https://srikarraophotography.passgallery.com/-sankeerthi">Click here</a> for full gallery</p>
+<p><b><a href="https://srikarraophotography.passgallery.com/-sankeerthi">Click here</a></b> for full gallery</p>
 <br>
 <br>
 </div>

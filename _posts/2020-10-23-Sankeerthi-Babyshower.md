@@ -3,7 +3,7 @@ layout: post
 title:  "Sankeerthi // Warangal"
 date:   2020-10-23 1:03:51 +0530
 alt: " Sankeerthi Baby Shower Warangal"
-image: "/images/Babyshower/Sankeerthi/SRI_503.jpg"
+image: "/images/Babyshower/Sankeerthi/SRI_5036.jpg"
 permalink: /blog/Sankeerthi
 description: "Sankeerthi Baby Shower at home in Warangal "
 ---

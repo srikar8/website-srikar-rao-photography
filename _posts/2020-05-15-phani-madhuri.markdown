@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phani Ratna & Madhuri   //   Zoom Ring Ceremony"
+title:  "Phani Ratna & Madhuri   |   Zoom Ring Ceremony"
 date:   2020-05-14 1:03:51 +0530
 alt: "Engagement Photographer during lockdown"
 image: "/images/ringceremony/Phaniratna&madhuri/online-home-zoom-hyderabad-ringceremony-photographer--2.jpg"

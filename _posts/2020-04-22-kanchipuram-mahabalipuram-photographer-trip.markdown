@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kanchipuram Mahabalipuram // Road Trip"
+title:  "Kanchipuram Mahabalipuram | Road Trip"
 date:   2020-04-22 09:03:51 +0530
 alt: "Travel Photographer to kanchipuram & mahabalipuram"
 image: "/images/trip/kanchipuram-mahabalipuram-photographer-trip/kanchipuram-mahabalipuram-photographer-trip-13.jpg"

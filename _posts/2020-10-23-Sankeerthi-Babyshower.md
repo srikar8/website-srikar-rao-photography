@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sankeerthi // Baby Shower // Warangal"
+title:  "Sankeerthi | Baby Shower | Warangal"
 date:   2020-10-23 1:03:51 +0530
 alt: " Sankeerthi Baby Shower Warangal"
 image: "/images/Babyshower/Sankeerthi/SRI_5036.jpg"

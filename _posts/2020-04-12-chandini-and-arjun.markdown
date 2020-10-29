@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chandini & Arjun    //   Tamil Bhramin Wedding "
+title:  "Chandini & Arjun    |   Tamil Bhramin Wedding "
 date:   2020-04-12 09:03:51 +0530
 alt: "Bangalore Tamil Bhramin Wedding Photographer "
 image: "/images/Wedding/Best_Wedding_Chandni_Arjun/Best_Wedding_Chandni_Arjun-0.jpg"

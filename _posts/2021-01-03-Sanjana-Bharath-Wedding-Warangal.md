@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  "Sanjana & Bharath| Wedding | Warangal"
+title:  "Sanjana & Bharath | Wedding | Hyderabad"
 date:   2021-01-03 1:03:51 +0530
-alt: " Sanjana & Bharath Wedding in warangal "
+alt: " Sanjana & Bharath Wedding in Hyderabad "
 image: "/images/Wedding/SanjanaBharath/9.gif"
 permalink: /blog/SanjanaBharath
-description: "Sanjana & Bharath Wedding in Warangal "
+description: "Sanjana & Bharath Wedding in Hyderabad "
 ---
+<div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
+
+<p> Sanjana & Bharath Crossed path in California. </p>
+
+<p style="text-align:center"><b>Photographer:</b> Srikar Rao, Chaitanya Reddy</p>
+<p style="text-align:center"><b>Equipment:</b> Nikon D750</p>
+<p style="text-align:center"><b>Venue : </b> Hyderabad</p>
+<br>
+</div>
+
 ![2](/images/Wedding/SanjanaBharath/2.gif){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}
 
 ![3](/images/Wedding/SanjanaBharath/3.gif){:class="img-responsive" style="width:70%;margin:auto;" loading="lazy"}

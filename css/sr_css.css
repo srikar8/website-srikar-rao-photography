@@ -395,3 +395,15 @@ button:hover span::before, button:hover span::after{
     position:absolute;
 }
 
+.Special-offer{
+  background-color: #0064aff5;
+  color: white;
+  font-family: Arapey, serif;
+  font-style: normal;
+  padding: 1rem;
+  border-radius: 5px;
+}@media (max-width: 768px) {
+  .Special-offer{
+    font-size: 1.5rem; 
+  }
+}

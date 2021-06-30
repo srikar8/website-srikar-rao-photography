@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sindhuja Weds Surya Vamsi
+title: " Sindhuja Weds Surya Vamsi "
 description: " Sindhuja Weds Surya Vamsi"
 permalink: /sindhujavamsi/
 ---
